@@ -20,7 +20,7 @@ after_success:
   - docker push jaseel44/multi-client
   - docker push jaseel44/multi-nginx  
   - docker push jaseel44/multi-server
-  - docker push jaseel44/multi-worker
+  - docker push jaseel44/multi-worker 
 
 # deploy:
 #   provider: elasticbeanstalk
