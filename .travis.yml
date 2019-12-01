@@ -26,8 +26,8 @@ deploy:
   edge: true
   provider: elasticbeanstalk
   region: "us-east-1"
-  app: "multidocker"
-  env: "Multidocker-env"
+  app: "multidocker1"
+  env: "Multidocker1-env"
   bucket_name: "elasticbeanstalk-us-east-1-445198795790"
   bucket_path: "docker-react"
   on :
